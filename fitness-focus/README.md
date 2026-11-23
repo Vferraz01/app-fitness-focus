@@ -88,9 +88,6 @@ Não há dependências. Escolha uma das opções:
 - **VS Code:** instale a extensão *Live Server*, clique com o botão direito em `index.html` e escolha *Open with Live Server*.
 - **Terminal:** na pasta do projeto, rode `python -m http.server 8000` e acesse `http://localhost:8000`.
 
-### Publicar no GitHub Pages
-No repositório, vá em **Settings → Pages**, escolha a branch `main` e a pasta `/ (root)`. O site fica disponível em `https://SEU-USUARIO.github.io/fitness-focus/`.
-
 ## Estrutura
 
 ```
