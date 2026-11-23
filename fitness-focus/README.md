@@ -76,7 +76,7 @@ Feito com HTML, CSS e JavaScript puros: não precisa de instalação, build nem 
 3. **Estratégias de treino:** cada estratégia é uma lista de dias, e cada dia é um modelo que define quantos exercícios de cada grupo muscular entram. A indicação por objetivo usa a frequência semanal de cada músculo e as revisões científicas sobre frequência de treino.
 4. **Sistema de níveis:** cada série concluída vira pontos para o grupo muscular do exercício. A comparação com o 1RM estimado evita que repetições com carga muito leve façam o nível subir.
 5. **Ilustração anatômica:** a imagem de base passou por limpeza (remoção de textos e linhas), conversão para tons de cinza e fundo transparente. Depois, cada grupo muscular foi mapeado como polígonos SVG sobre a imagem, o que permite colorir e tocar em cada músculo.
-6. **Código organizado em três camadas:** `index.html` (estrutura), `css/style.css` (visual) e `js/app.js` (lógica, dados e telas).
+6. **Código organizado em três camadas:** `index.html` (estrutura), `css/style.css` (visual) e `js/app.js` (lógica, dados e telas), todos formatados e comentados em português. O guia [docs/COMO-FUNCIONA.md](docs/COMO-FUNCIONA.md) explica o funcionamento passo a passo.
 
 O projeto foi desenvolvido com apoio do Claude, da Anthropic.
 
